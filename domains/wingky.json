@@ -1,8 +1,9 @@
 {
     "owner": {
-        "username": "Wingky530"
+        "username": "Wingky530",
+        "email": "wingky530.id@gmail.com"
     },
     "records": {
-        "CNAME": "wingky.vercel.app"
+        "A": ["216.198.79.1"]
     }
 }
